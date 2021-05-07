@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 "# rails_new_app" 
+"# rails_new_app" 
